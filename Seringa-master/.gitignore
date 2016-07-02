@@ -1,0 +1,10 @@
+/*.suo
+/*.exe
+/*.config
+/*.manifest
+/*.pdb
+obj/
+/Seringa.Engine/bin
+/Seringa.Engine/obj
+/Seringa.GUI/obj
+/Seringa.GUI/bin
